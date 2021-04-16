@@ -1,3 +1,8 @@
+---
+layout: default
+title: YuichoApps Readme
+permalink: /nicovideo_oauth_readme.html
+---
 # YuichoApps
 ニコニコOAuthシステム における YuichoApps はYuicho個人専用に登録したアプリケーションです。  
 したがって、無関係のユーザーに対してこのアプリケーションでの認可を求めることはありません。  
